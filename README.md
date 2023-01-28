@@ -2,4 +2,5 @@ I set out to find out the distribution of the temperature of the stars in the da
 
 Sources:
 https://www.nbshare.io/notebook/204214467/How-to-Plot-a-Histogram-in-Python/
+
 https://www.geeksforgeeks.org/matplotlib-pyplot-title-in-python/
